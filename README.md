@@ -17,7 +17,7 @@ This project is an admin dashboard interface for managing users. It allows admin
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/sameer0288/frontend-admin-app/tree/main
+   git clone https://github.com/sameer0288/frontend-admin-app.git
 
 
 ## Explanation:
